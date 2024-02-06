@@ -1,4 +1,3 @@
-```markdown
 # JavaScript Basic Problems Solving Repository
 
 This repository contains solutions to various basic JavaScript problems. Each problem is organized into a separate directory, and each directory includes multiple solutions using different approaches such as recursive, procedural, functional and their combinations. 
@@ -65,4 +64,3 @@ node main.js     # Run tests
 Make sure to replace `problem-name` with the actual name of the problem directory.
 
 Feel free to explore different solutions and approaches within each problem directory.
-```
